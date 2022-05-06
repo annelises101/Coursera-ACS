@@ -39,7 +39,7 @@ div#sushi {
 
 #food1 {
   float: right;
-  Margin-top: -3px; margin-right: -3px;
+  Margin-top: 0px; margin-right: 0px;
   font-family: 'Fjalla One', sans-serif;
   Border: black solid;
   background-color: #D59898;
@@ -50,7 +50,7 @@ div#sushi {
 
 #food2{
   float: right;
-  Margin-top: -3px; margin-right: -3px;
+  Margin-top: 0px; margin-right: 0px;
   font-family: 'Fjalla One', sans-serif;
   Border: black solid;
   background-color: #C14543;
@@ -61,7 +61,7 @@ div#sushi {
 
 #food3{
   float: right;
-  Margin-top: -3px; margin-right: -3px;
+  Margin-top: 0px; margin-right: 0px;
   font-family: 'Fjalla One', sans-serif;
   Border: black solid;
   background-color: #E5D198;
